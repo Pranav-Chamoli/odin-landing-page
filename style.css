@@ -94,9 +94,8 @@ body {
 
 .information-cards {
   display: flex;
-  justify-content: space-around;
-  width: 800px;
-  padding-left: 500px;
+  justify-content: center;
+  width: 100%;
 }
 
 .subtext {
@@ -104,6 +103,7 @@ body {
   flex-direction: column;
   flex-wrap: wrap;
   width: 100px;
+  margin: 50px;
 }
 
 .quote {
